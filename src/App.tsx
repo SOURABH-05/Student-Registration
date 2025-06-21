@@ -177,7 +177,7 @@ function App() {
             <CheckCircle className="w-6 h-6 text-green-600 flex-shrink-0" />
             <div>
               <p className="text-green-800 font-semibold text-lg">Submit Successfully!</p>
-              <p className="text-green-700 text-sm">Your registration has been submitted successfully. All fields have been cleared.</p>
+              <p className="text-green-700 text-sm">Your registration has been submitted successfully. </p>
             </div>
           </div>
         )}
